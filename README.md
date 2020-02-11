@@ -1,6 +1,6 @@
 # FirebaseRecyclerView
 ### Description
-#App include connect to firebase real time database with RecyclerView, View.OnFocusChangeListener, Login animation background ,add ,update items by dialog ,delete items by swiping, navigation bottom with fragment, and settings.
+# App include connect to firebase real time database with RecyclerView, View.OnFocusChangeListener, Login animation background ,add ,update items by dialog ,delete items by swiping, navigation bottom with fragment, and settings.
 
 <h3>Screenshots</h3>
 
